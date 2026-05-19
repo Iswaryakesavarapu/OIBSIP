@@ -1,6 +1,5 @@
 # 1.Denial-of-Service (DoS) Attack
 
-#### \---------------------------------------------
 
 ## Definition
 
@@ -38,7 +37,7 @@ In DDoS attacks, attackers use botnets (infected devices controlled remotely) to
 
 # Types of DoS Attacks
 
-\--------------------------------------------------
+
 
 
 
@@ -96,7 +95,7 @@ Service disruption
 
 # Real-World Example
 
-\--------------------------------------------
+
 
 ## Dyn DNS DDoS Attack (2016)
 
@@ -126,7 +125,7 @@ The attack used thousands of infected IoT devices like cameras and routers.
 
 # Prevention and Mitigation
 
-\---------------------------------------------------------------
+
 
 Preventive Measures
 
@@ -146,7 +145,6 @@ Use Content Delivery Networks (CDNs)
 
 # Mitigation Techniques
 
-# \---------------------
 
 Traffic filtering
 
