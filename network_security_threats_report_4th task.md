@@ -162,7 +162,7 @@ Network redundancy
 
 # 2\. Man-in-the-Middle (MITM) Attack
 
-\---------------------------------------------------------------------------------------------
+
 
 ## Definition
 
@@ -186,7 +186,7 @@ Monitor communication
 
 # How MITM Attacks Work
 
-\-------------------------------------------------
+
 
 The attacker positions themselves between the sender and receiver.
 
@@ -200,7 +200,6 @@ Both users believe they are communicating directly.
 
 # Common MITM Techniques
 
-\---------------------------------------------------
 
 ## 1\. Wi-Fi Eavesdropping
 
@@ -236,7 +235,7 @@ Attackers downgrade HTTPS connections to HTTP.
 
 # Impact of MITM Attacks
 
-\------------------------------------------------------------
+
 
 Theft of login credentials
 
@@ -250,7 +249,7 @@ Unauthorized account access
 
 # Real-World Example
 
-\-------------------------------------------------
+
 
 Public Wi-Fi Attacks
 
@@ -270,7 +269,7 @@ Personal data
 
 # Prevention and Mitigation
 
-\-------------------------------------------------------------------
+
 
 Preventive Measures
 
@@ -288,7 +287,7 @@ Keep software updated
 
 # Mitigation Techniques
 
-\---------------------------------------------------------
+
 
 Encryption protocols
 
@@ -304,7 +303,6 @@ Network monitoring
 
 # 3\. Spoofing Attacks
 
-\--------------------------------------------
 
 ## Definition
 
@@ -320,7 +318,7 @@ The main goal is to gain unauthorized access, steal information, or spread malwa
 
 # Types of Spoofing
 
-\---------------------------------------
+-
 
 
 
@@ -366,7 +364,7 @@ Attackers fake phone numbers to deceive victims.
 
 # How Spoofing Works
 
-\------------------------------------------------
+
 
 The attacker impersonates a trusted source.
 
@@ -376,7 +374,7 @@ Victims reveal sensitive information or download malware.
 
 # Impact of Spoofing
 
-\-------------------------------------------------
+
 
 Identity theft
 
@@ -412,7 +410,7 @@ Victims are redirected to fake login pages where credentials are stolen.
 
 # Prevention and Mitigation
 
-\--------------------------------------------------------------------
+
 
 Preventive Measures
 
@@ -434,7 +432,7 @@ Educate users about phishing
 
 # Mitigation Techniques
 
-\--------------------------------------------------------
+
 
 Packet filtering
 
