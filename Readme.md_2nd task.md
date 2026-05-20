@@ -54,7 +54,7 @@ Allow SSH
 
 
 
-```bash
+bash
 
 sudo ufw allow ssh
 
@@ -66,7 +66,7 @@ Deny HTTP
 
 
 
-```bash
+bash
 
 sudo ufw deny http
 
@@ -76,7 +76,7 @@ Enable Firewall
 
 
 
-```bash
+bash
 
 sudo ufw enable
 
@@ -86,7 +86,7 @@ Check Status
 
 
 
-```bash
+bash
 
 sudo ufw status numbered
 
